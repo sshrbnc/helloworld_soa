@@ -4,7 +4,5 @@ steps:
   - beta
   - functions
   - deploy
-  - --trigger-http
-  - --source=.
-  - --entry-point=helloSHAI
   - helloSHAI
+  - --trigger-http
