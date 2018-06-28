@@ -7,5 +7,5 @@
  * @param {Object} res Cloud Function response context.
  */
 exports.helloSHAI = (req, res) => {
-  res.send('Hello World!');
+  res.send('Hello WorldZ!');
 };
